@@ -28,5 +28,5 @@ hello tiktok api full methods x-gorgon x-argus x-ladon create accounts
 
 
 ### contact me
-**Contact for api :** [https://t.me/alethino](https://t.me/alethino)
-## telegram: @alethino
+**Contact for api :** [https://t.me/dacent53](https://t.me/dacent53)
+## telegram: @dacent53
